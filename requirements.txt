@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pillow
+websocket-client
+python-vlc
+requests
